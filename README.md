@@ -1,1 +1,1 @@
-# land-page-project
+# landing-page-project
